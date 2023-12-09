@@ -1,0 +1,4 @@
+[Tue Dec 05 02:18:25.222913 2023] [php:error] [pid 32103] [client 70.172.83.118:63525] PHP Fatal error:  Trait "App\\Models\\HasApiTokens" not found in /var/www/laravel/app/Models/temperature.php on line 8
+[Tue Dec 05 02:19:04.497245 2023] [php:error] [pid 32105] [client 70.172.83.118:63530] PHP Fatal error:  Trait "App\\Models\\HasApiTokens" not found in /var/www/laravel/app/Models/humidity.php on line 8
+[Tue Dec 05 02:24:48.610948 2023] [php:error] [pid 32106] [client 70.172.83.118:63676] PHP Fatal error:  Trait "App\\Models\\HasApiTokens" not found in /var/www/laravel/app/Models/humidity.php on line 8
+[Tue Dec 05 02:59:10.541125 2023] [php:error] [pid 32106] [client 70.172.83.118:64379] PHP Fatal error:  Cannot declare class App\\Http\\Controllers\\homepage, because the name is already in use in /var/www/laravel/app/Http/Controllers/controller_homepage.php on line 7
